@@ -21,4 +21,37 @@ border-color: aqua;
 border-width: 7%;
 }
 #ima1{margin-left: 33%;
+    border-style: outset;
+
+}
+#ima2{
+    margin-left: 45%;
+
+}
+.part3{
+    text-align: center;
+    border-color: rgb(255, 255, 255);
+border-style: outset;
+border-width: 5px;
+margin-left: 35%;
+margin-right: 35%;
+}
+#ima3{margin-left: -8%;
+    border-style: initial;
+
+}
+.part4{
+    text-align: center;
+    border-color: rgb(255, 255, 255);
+border-style: outset;
+border-width: 5px;
+margin-left: 35%;
+margin-right: 35%;
+}
+#ima4{margin-left: 16%;
+    background-color: aqua;
+    margin-right: 35%;
+    border-style: groove;
+border-color: aqua;
+border-width: 7%;
 }
